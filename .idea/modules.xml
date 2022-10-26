@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/drafael-dbz/drafael-dbz.iml" filepath="$PROJECT_DIR$/drafael-dbz/drafael-dbz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drafael-dbz-faillover/drafael-dbz-faillover.iml" filepath="$PROJECT_DIR$/drafael-dbz-faillover/drafael-dbz-faillover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drafael-game-of-thrones/drafael-game-of-thrones.iml" filepath="$PROJECT_DIR$/drafael-game-of-thrones/drafael-game-of-thrones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/poc-cloud-microservices.iml" filepath="$PROJECT_DIR$/.idea/poc-cloud-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spc-client-standalone/spc-client-standalone.iml" filepath="$PROJECT_DIR$/spc-client-standalone/spc-client-standalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spc-config-server/spc-config-server.iml" filepath="$PROJECT_DIR$/spc-config-server/spc-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spc-eureka-server/spc-eureka-server.iml" filepath="$PROJECT_DIR$/spc-eureka-server/spc-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spc-spring-gateway/spc-spring-gateway.iml" filepath="$PROJECT_DIR$/spc-spring-gateway/spc-spring-gateway.iml" />
+    </modules>
+  </component>
+</project>

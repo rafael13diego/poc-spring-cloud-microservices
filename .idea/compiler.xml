@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spc-eureka-server" />
+        <module name="spc-config-server" />
+        <module name="spc-client-standalone" />
+        <module name="drafael-dbz" />
+        <module name="drafael-dbz-faillover" />
+        <module name="drafael-game-of-thrones" />
+        <module name="spc-spring-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="drafael-dbz" target="11" />
+      <module name="drafael-dbz-faillover" target="11" />
+      <module name="drafael-game-of-thrones" target="11" />
+      <module name="spc-client-standalone" target="11" />
+      <module name="spc-config-server" target="11" />
+      <module name="spc-eureka-server" target="11" />
+      <module name="spc-spring-gateway" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="drafael-dbz" options="-parameters" />
+      <module name="drafael-dbz-faillover" options="-parameters" />
+      <module name="drafael-game-of-thrones" options="-parameters" />
+      <module name="spc-client-standalone" options="-parameters" />
+      <module name="spc-config-server" options="-parameters" />
+      <module name="spc-eureka-server" options="-parameters" />
+      <module name="spc-spring-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>
